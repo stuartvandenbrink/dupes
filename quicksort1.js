@@ -29,3 +29,4 @@ console.log("help");
 let me = 'free';
 let me = 'be';
 let me = 'go';
+let me = 'do something new';
