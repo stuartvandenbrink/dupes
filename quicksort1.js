@@ -26,3 +26,4 @@ console.log(quickSort([3, 6, 8, 10, 1, 2, 1]));
 console.log(quickSort([3, 6, 8, 10, 1, 2, 1]));
 
 console.log("help");
+let me = 'free';
